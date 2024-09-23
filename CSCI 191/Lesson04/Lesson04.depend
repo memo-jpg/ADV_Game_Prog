@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1726534151 source:c:\users\user\desktop\csci 191\lesson04\main.cpp
+	<windows.h>
+	"_Common.h"
+	"_Scene.h"
+
+1724893945 c:\users\user\desktop\csci 191\lesson04\include\_common.h
+	<string.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+
+1724719002 c:\users\user\desktop\csci 191\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1726102905 c:\users\user\desktop\csci 191\lesson04\include\_scene.h
+	"_Common.h"
+
+1726533884 source:c:\users\user\desktop\csci 191\lesson04\src\_kbms.cpp
+	"_KbMs.h"
+
+1726102536 c:\users\user\desktop\csci 191\lesson04\include\_kbms.h
+	"_Common.h"
+	"_Models.h"
+
+1726100632 c:\users\user\desktop\csci 191\lesson04\include\_models.h
+	"_Common.h"
+
+1725930735 source:c:\users\user\desktop\csci 191\lesson04\src\_lightsetup.cpp
+	"_lightSetup.h"
+
+1725928915 c:\users\user\desktop\csci 191\lesson04\include\_lightsetup.h
+	"_Common.h"
+
+1726100982 source:c:\users\user\desktop\csci 191\lesson04\src\_models.cpp
+	"_Models.h"
+
+1726536126 source:c:\users\user\desktop\csci 191\lesson04\src\_scene.cpp
+	"_Scene.h"
+	"_lightSetup.h"
+	"_Models.h"
+	"_KbMs.h"
+

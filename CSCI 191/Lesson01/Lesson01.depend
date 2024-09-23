@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1725496108 source:c:\users\user\desktop\csci 191\lesson01\main.cpp
+	<windows.h>
+	"_Common.h"
+	"_Scene.h"
+
+1724893945 c:\users\user\desktop\csci 191\lesson01\include\_common.h
+	<string.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+
+1725495552 source:c:\users\user\desktop\csci 191\lesson01\src\_scene.cpp
+	"_Scene.h"
+
+1724893911 c:\users\user\desktop\csci 191\lesson01\include\_scene.h
+	"_Common.h"
+
+1724719002 c:\users\user\desktop\csci 191\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
