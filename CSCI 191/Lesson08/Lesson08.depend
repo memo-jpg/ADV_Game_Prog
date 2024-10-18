@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1726534151 source:c:\users\user\desktop\csci 191\lesson08\main.cpp
+	<windows.h>
+	"_Common.h"
+	"_Scene.h"
+
+1727914716 c:\users\user\desktop\csci 191\lesson08\include\_common.h
+	<string.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<time.h>
+
+1724719002 c:\users\user\desktop\csci 191\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1727139052 c:\users\user\desktop\csci 191\lesson08\include\_scene.h
+	"_Common.h"
+
+1728348184 source:c:\users\user\desktop\csci 191\lesson08\src\_camera.cpp
+	"_Camera.h"
+
+1728348184 c:\users\user\desktop\csci 191\lesson08\include\_camera.h
+	"_Common.h"
+
+1728349842 source:c:\users\user\desktop\csci 191\lesson08\src\_kbms.cpp
+	"_KbMs.h"
+
+1728349789 c:\users\user\desktop\csci 191\lesson08\include\_kbms.h
+	"_Common.h"
+	"_Models.h"
+	"_parallax.h"
+	"_SkyBox.h"
+	"_Skybox2.h"
+	"_Camera.h"
+
+1726707826 c:\users\user\desktop\csci 191\lesson08\include\_models.h
+	"_Common.h"
+	"_TextureLoader.h"
+
+1726707167 c:\users\user\desktop\csci 191\lesson08\include\_textureloader.h
+	"_Common.h"
+	"SOIL.H"
+
+1726704987 c:\users\user\desktop\csci 191\common\include\soil.h
+
+1727311227 c:\users\user\desktop\csci 191\lesson08\include\_parallax.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1727311034 c:\users\user\desktop\csci 191\lesson08\include\_timer.h
+	"_Common.h"
+
+1727745789 c:\users\user\desktop\csci 191\lesson08\include\_skybox.h
+	"_Common.h"
+	"_TextureLoader.h"
+
+1727915038 c:\users\user\desktop\csci 191\lesson08\include\_skybox2.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1725930735 source:c:\users\user\desktop\csci 191\lesson08\src\_lightsetup.cpp
+	"_lightSetup.h"
+
+1725928915 c:\users\user\desktop\csci 191\lesson08\include\_lightsetup.h
+	"_Common.h"
+
+1726708429 source:c:\users\user\desktop\csci 191\lesson08\src\_models.cpp
+	"_Models.h"
+
+1727311374 source:c:\users\user\desktop\csci 191\lesson08\src\_parallax.cpp
+	"_parallax.h"
+
+1728349624 source:c:\users\user\desktop\csci 191\lesson08\src\_scene.cpp
+	"_Scene.h"
+	"_lightSetup.h"
+	"_Models.h"
+	"_KbMs.h"
+	"_parallax.h"
+	"_SkyBox.h"
+	"_Skybox2.h"
+	"_Camera.h"
+
+1727913864 source:c:\users\user\desktop\csci 191\lesson08\src\_skybox.cpp
+	"_SkyBox.h"
+
+1728007476 source:c:\users\user\desktop\csci 191\lesson08\src\_skybox2.cpp
+	"_Skybox2.h"
+
+1728006109 source:c:\users\user\desktop\csci 191\lesson08\src\_textureloader.cpp
+	"_TextureLoader.h"
+
+1727311000 source:c:\users\user\desktop\csci 191\lesson08\src\_timer.cpp
+	"_Timer.h"
+
