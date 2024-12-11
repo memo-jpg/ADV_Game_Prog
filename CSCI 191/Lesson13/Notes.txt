@@ -1,0 +1,3 @@
+From here on, everything is specific for the type of game we're making.
+
+Meaning the code we are doing from here on, is meant for the type of game he's making / taking us thru

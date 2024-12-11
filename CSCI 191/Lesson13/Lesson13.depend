@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1730772102 source:c:\users\user\desktop\csci 191\lesson13\main.cpp
+	<windows.h>
+	"_Common.h"
+	"_Scene.h"
+
+1730334905 c:\users\user\desktop\csci 191\lesson13\include\_common.h
+	<string.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<time.h>
+	<math.h>
+
+1724715402 c:\users\user\desktop\csci 191\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1730771797 c:\users\user\desktop\csci 191\lesson13\include\_scene.h
+	"_Common.h"
+
+1729120827 source:c:\users\user\desktop\csci 191\lesson13\src\_2dplayer.cpp
+	"_2DPlayer.h"
+
+1728948750 c:\users\user\desktop\csci 191\lesson13\include\_2dplayer.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1726703567 c:\users\user\desktop\csci 191\lesson13\include\_textureloader.h
+	"_Common.h"
+	"SOIL.H"
+
+1726701387 c:\users\user\desktop\csci 191\common\include\soil.h
+
+1727307434 c:\users\user\desktop\csci 191\lesson13\include\_timer.h
+	"_Common.h"
+
+1729555341 source:c:\users\user\desktop\csci 191\lesson13\src\_bullet.cpp
+	"_Bullet.h"
+
+1729554955 c:\users\user\desktop\csci 191\lesson13\include\_bullet.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1730159158 source:c:\users\user\desktop\csci 191\lesson13\src\_camera.cpp
+	"_Camera.h"
+
+1730158350 c:\users\user\desktop\csci 191\lesson13\include\_camera.h
+	"_Common.h"
+
+1730335258 source:c:\users\user\desktop\csci 191\lesson13\src\_collision.cpp
+	"_Collision.h"
+
+1730332287 c:\users\user\desktop\csci 191\lesson13\include\_collision.h
+	"_Common.h"
+
+1730944802 source:c:\users\user\desktop\csci 191\lesson13\src\_kbms.cpp
+	"_KbMs.h"
+
+1730944107 c:\users\user\desktop\csci 191\lesson13\include\_kbms.h
+	"_Common.h"
+	"_Models.h"
+	"_parallax.h"
+	"_SkyBox.h"
+	"_Skybox2.h"
+	"_Camera.h"
+	"_2DPlayer.h"
+	"_ModelLoaderMD2.h"
+
+1730334905 c:\users\user\desktop\csci 191\lesson13\include\_models.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1727307627 c:\users\user\desktop\csci 191\lesson13\include\_parallax.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1727742189 c:\users\user\desktop\csci 191\lesson13\include\_skybox.h
+	"_Common.h"
+	"_TextureLoader.h"
+
+1727911438 c:\users\user\desktop\csci 191\lesson13\include\_skybox2.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"_Timer.h"
+
+1725927135 source:c:\users\user\desktop\csci 191\lesson13\src\_lightsetup.cpp
+	"_lightSetup.h"
+
+1725925315 c:\users\user\desktop\csci 191\lesson13\include\_lightsetup.h
+	"_Common.h"
+
+1731547313 source:c:\users\user\desktop\csci 191\lesson13\src\_modelloadermd2.cpp
+	"_ModelLoaderMD2.h"
+
+1730943952 c:\users\user\desktop\csci 191\lesson13\include\_modelloadermd2.h
+	"_Common.h"
+	"_TextureLoader.h"
+	"Anorms.h"
+
+1730770789 c:\users\user\desktop\csci 191\lesson13\include\anorms.h
+
+1730335258 source:c:\users\user\desktop\csci 191\lesson13\src\_models.cpp
+	"_Models.h"
+
+1727307774 source:c:\users\user\desktop\csci 191\lesson13\src\_parallax.cpp
+	"_parallax.h"
+
+1731547313 source:c:\users\user\desktop\csci 191\lesson13\src\_scene.cpp
+	"_Scene.h"
+	"_lightSetup.h"
+	"_Models.h"
+	"_KbMs.h"
+	"_parallax.h"
+	"_SkyBox.h"
+	"_Skybox2.h"
+	"_Camera.h"
+	"_2DPlayer.h"
+	"_Bullet.h"
+	"_Collision.h"
+	"_ModelLoaderMD2.h"
+
+1727910264 source:c:\users\user\desktop\csci 191\lesson13\src\_skybox.cpp
+	"_SkyBox.h"
+
+1728003876 source:c:\users\user\desktop\csci 191\lesson13\src\_skybox2.cpp
+	"_Skybox2.h"
+
+1728002509 source:c:\users\user\desktop\csci 191\lesson13\src\_textureloader.cpp
+	"_TextureLoader.h"
+
+1727307400 source:c:\users\user\desktop\csci 191\lesson13\src\_timer.cpp
+	"_Timer.h"
+
